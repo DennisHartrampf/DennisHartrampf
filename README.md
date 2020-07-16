@@ -12,3 +12,15 @@ Steadily growing into people management and recently into <img src="https://raw.
   <a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
   <a href="#"><img src="https://img.shields.io/badge/Angular-Apprentice-_.svg?logo=angular&logoColor=DD0031&color=coral"></a>
 </p>
+
+<hr>
+
+#### Want Your Own?
+
+Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called "Profile Readmes". For it to work, do the following:
+
+1. Create a *special* GitHub repository with your username as repository name. My username is `DennisHartrampf` so my profile readme repository has the name `DennisHartrampf`.
+1. Add a `README.md` to this repository.
+1. Put some cool content about yourself (or anything you want) into `README.md`.
+
+And that's about it. If you need inspiration, you can check out [this repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme) which contains a curated list of nice profile readme repositories.
